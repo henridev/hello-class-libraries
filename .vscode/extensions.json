@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+                "ms-dotnettools.csharp",
+                "ms-dotnettools.dotnet-interactive-vscode",
+                "patcx.vscode-nuget-gallery",
+                "ms-azuretools.vscode-azurestaticwebapps",
+                "adrianwilczynski.asp-net-core-switcher"
+	]
+}
